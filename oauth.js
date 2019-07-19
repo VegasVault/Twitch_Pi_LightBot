@@ -1,0 +1,1 @@
+module.exports = "oauth:YOUR_BOTS_TWITCH_OAUTH"
