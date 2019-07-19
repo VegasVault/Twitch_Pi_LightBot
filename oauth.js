@@ -1,0 +1,1 @@
+module.exports = "oauth:YOUR_TWITCH_OAUTH_HERE"
